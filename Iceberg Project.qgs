@@ -1,0 +1,682 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="2.18.16">
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <layer-tree-group expanded="1" checked="Qt::Checked" name="">
+    <customproperties/>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Basic_QA20180327091401439" source="HDF4_EOS:EOS_SWATH:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:MOD_Swath_Snow:NDSI_Snow_Cover_Basic_QA" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI_Snow_Cover_Basic_QA">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Algorithm_Flags_QA20180327091400579" source="HDF4_EOS:EOS_SWATH:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:MOD_Swath_Snow:NDSI_Snow_Cover_Algorithm_Flags_QA" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI_Snow_Cover_Algorithm_Flags_QA">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover20180327091356261" source="HDF4_EOS:EOS_SWATH:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:MOD_Swath_Snow:NDSI_Snow_Cover" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI_Snow_Cover">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI20180327091346598" source="HDF4_EOS:EOS_SWATH:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:MOD_Swath_Snow:NDSI" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__520180327091344004" source="HDF4_SDS:UNKNOWN:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:5" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:5">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__420180327091341363" source="HDF4_SDS:UNKNOWN:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:4" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:4">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__320180327091340050" source="HDF4_SDS:UNKNOWN:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:3" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:3">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__220180327091338565" source="HDF4_SDS:UNKNOWN:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:2" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:2">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__120180327091336096" source="HDF4_SDS:UNKNOWN:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:1" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:1">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer expanded="1" providerKey="gdal" checked="Qt::Checked" id="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__020180327091327742" source="HDF4_SDS:UNKNOWN:&quot;C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf&quot;:0" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:0">
+      <customproperties/>
+    </layer-tree-layer>
+  </layer-tree-group>
+  <relations/>
+  <mapcanvas>
+    <units>degrees</units>
+    <extent>
+      <xmin>-90.27547839045601563</xmin>
+      <ymin>65.51210091149727077</ymin>
+      <xmax>9.64087134047292693</xmax>
+      <ymax>90.03281025260244519</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <projections>1</projections>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <layer_coordinate_transform_info>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__020180327091327742"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__520180327091344004"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Algorithm_Flags_QA20180327091400579"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover20180327091356261"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI20180327091346598"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__320180327091340050"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__120180327091336096"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__220180327091338565"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__420180327091341363"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Basic_QA20180327091401439"/>
+    </layer_coordinate_transform_info>
+  </mapcanvas>
+  <layer-tree-canvas>
+    <custom-order enabled="0">
+      <item>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__020180327091327742</item>
+      <item>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__120180327091336096</item>
+      <item>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__220180327091338565</item>
+      <item>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__320180327091340050</item>
+      <item>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__420180327091341363</item>
+      <item>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__520180327091344004</item>
+      <item>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI20180327091346598</item>
+      <item>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover20180327091356261</item>
+      <item>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Algorithm_Flags_QA20180327091400579</item>
+      <item>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Basic_QA20180327091401439</item>
+    </custom-order>
+  </layer-tree-canvas>
+  <legend updateDrawingOrder="true">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI_Snow_Cover_Basic_QA" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Basic_QA20180327091401439" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI_Snow_Cover_Algorithm_Flags_QA" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Algorithm_Flags_QA20180327091400579" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI_Snow_Cover" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover20180327091356261" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_EOS:EOS_SWATH:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:MOD_Swath_Snow:NDSI" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI20180327091346598" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:5" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__520180327091344004" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:4" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__420180327091341363" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:3" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__320180327091340050" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:2" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__220180327091338565" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:1" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__120180327091336096" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="HDF4_SDS:UNKNOWN:&quot;MOD10_L2.A2018085.2220.006.2018086074709&quot;:0" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__020180327091327742" visible="1"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <projectlayers>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-82.04204406553014906</xmin>
+        <ymin>62.46615368181183214</ymin>
+        <xmax>13.11638424964027649</xmax>
+        <ymax>85.8192101971500847</ymax>
+      </extent>
+      <id>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI20180327091346598</id>
+      <datasource>HDF4_EOS:EOS_SWATH:"C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf":MOD_Swath_Snow:NDSI</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_EOS:EOS_SWATH:"MOD10_L2.A2018085.2220.006.2018086074709":MOD_Swath_Snow:NDSI</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>nan</minValue>
+            <maxValue>0</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-82.04204406553014906</xmin>
+        <ymin>62.46615368181183214</ymin>
+        <xmax>13.11638424964027649</xmax>
+        <ymax>85.8192101971500847</ymax>
+      </extent>
+      <id>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover20180327091356261</id>
+      <datasource>HDF4_EOS:EOS_SWATH:"C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf":MOD_Swath_Snow:NDSI_Snow_Cover</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_EOS:EOS_SWATH:"MOD10_L2.A2018085.2220.006.2018086074709":MOD_Swath_Snow:NDSI_Snow_Cover</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>239</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-82.04204406553014906</xmin>
+        <ymin>62.46615368181183214</ymin>
+        <xmax>13.11638424964027649</xmax>
+        <ymax>85.8192101971500847</ymax>
+      </extent>
+      <id>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Algorithm_Flags_QA20180327091400579</id>
+      <datasource>HDF4_EOS:EOS_SWATH:"C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf":MOD_Swath_Snow:NDSI_Snow_Cover_Algorithm_Flags_QA</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_EOS:EOS_SWATH:"MOD10_L2.A2018085.2220.006.2018086074709":MOD_Swath_Snow:NDSI_Snow_Cover_Algorithm_Flags_QA</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>239</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>-82.04204406553014906</xmin>
+        <ymin>62.46615368181183214</ymin>
+        <xmax>13.11638424964027649</xmax>
+        <ymax>85.8192101971500847</ymax>
+      </extent>
+      <id>HDF4_EOS_EOS_SWATH__MOD10_L2_A2018085_2220_006_2018086074709__MOD_Swath_Snow_NDSI_Snow_Cover_Basic_QA20180327091401439</id>
+      <datasource>HDF4_EOS:EOS_SWATH:"C:/Users/waters2/Documents/GitHub/Group4-Ice-Bergs/MOD10_L2.A2018085.2220.006.2018086074709.hdf":MOD_Swath_Snow:NDSI_Snow_Cover_Basic_QA</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_EOS:EOS_SWATH:"MOD10_L2.A2018085.2220.006.2018086074709":MOD_Swath_Snow:NDSI_Snow_Cover_Basic_QA</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="1"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>0</minValue>
+            <maxValue>239</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>0</xmin>
+        <ymin>-406</ymin>
+        <xmax>271</xmax>
+        <ymax>0</ymax>
+      </extent>
+      <id>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__020180327091327742</id>
+      <datasource>HDF4_SDS:UNKNOWN:"./MOD10_L2.A2018085.2220.006.2018086074709.hdf":0</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_SDS:UNKNOWN:"MOD10_L2.A2018085.2220.006.2018086074709":0</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>65.10241506576538</minValue>
+            <maxValue>84.28737112045289</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>0</xmin>
+        <ymin>-406</ymin>
+        <xmax>271</xmax>
+        <ymax>0</ymax>
+      </extent>
+      <id>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__120180327091336096</id>
+      <datasource>HDF4_SDS:UNKNOWN:"./MOD10_L2.A2018085.2220.006.2018086074709.hdf":1</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_SDS:UNKNOWN:"MOD10_L2.A2018085.2220.006.2018086074709":1</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>-69.6666504020691</minValue>
+            <maxValue>9.657099689483644</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>0</xmin>
+        <ymin>-4060</ymin>
+        <xmax>2708</xmax>
+        <ymax>0</ymax>
+      </extent>
+      <id>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__220180327091338565</id>
+      <datasource>HDF4_SDS:UNKNOWN:"./MOD10_L2.A2018085.2220.006.2018086074709.hdf":2</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_SDS:UNKNOWN:"MOD10_L2.A2018085.2220.006.2018086074709":2</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>211</minValue>
+            <maxValue>239</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>0</xmin>
+        <ymin>-4060</ymin>
+        <xmax>2708</xmax>
+        <ymax>0</ymax>
+      </extent>
+      <id>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__320180327091340050</id>
+      <datasource>HDF4_SDS:UNKNOWN:"./MOD10_L2.A2018085.2220.006.2018086074709.hdf":3</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_SDS:UNKNOWN:"MOD10_L2.A2018085.2220.006.2018086074709":3</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>210</minValue>
+            <maxValue>239</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>0</xmin>
+        <ymin>-4060</ymin>
+        <xmax>2708</xmax>
+        <ymax>0</ymax>
+      </extent>
+      <id>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__420180327091341363</id>
+      <datasource>HDF4_SDS:UNKNOWN:"./MOD10_L2.A2018085.2220.006.2018086074709.hdf":4</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_SDS:UNKNOWN:"MOD10_L2.A2018085.2220.006.2018086074709":4</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>210</minValue>
+            <maxValue>239</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer minimumScale="0" maximumScale="1e+08" type="raster" hasScaleBasedVisibilityFlag="0">
+      <extent>
+        <xmin>0</xmin>
+        <ymin>-4060</ymin>
+        <xmax>2708</xmax>
+        <ymax>0</ymax>
+      </extent>
+      <id>HDF4_SDS_UNKNOWN__MOD10_L2_A2018085_2220_006_2018086074709__520180327091344004</id>
+      <datasource>HDF4_SDS:UNKNOWN:"./MOD10_L2.A2018085.2220.006.2018086074709.hdf":5</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>HDF4_SDS:UNKNOWN:"MOD10_L2.A2018085.2220.006.2018086074709":5</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <customproperties>
+        <property key="identify/format" value="Value"/>
+      </customproperties>
+      <provider>gdal</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="">
+        <map-layer-style name=""/>
+      </map-layer-style-manager>
+      <pipe>
+        <rasterrenderer gradient="BlackToWhite" opacity="1" alphaBand="-1" type="singlebandgray" grayBand="1">
+          <rasterTransparency/>
+          <contrastEnhancement>
+            <minValue>-3</minValue>
+            <maxValue>-2</maxValue>
+            <algorithm>StretchToMinimumMaximum</algorithm>
+          </contrastEnhancement>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeGreen="128" colorizeOn="0" colorizeRed="255" colorizeBlue="128" grayscaleMode="0" saturation="0" colorizeStrength="100"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+  </projectlayers>
+  <properties>
+    <Measurement>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+      <AreaUnits type="QString">m2</AreaUnits>
+    </Measurement>
+    <SpatialRefSys>
+      <ProjectCRSProj4String type="QString">+proj=longlat +datum=WGS84 +no_defs</ProjectCRSProj4String>
+      <ProjectCrs type="QString">EPSG:4326</ProjectCrs>
+      <ProjectCRSID type="int">3452</ProjectCRSID>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Gui>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+    </Gui>
+    <Digitizing>
+      <DefaultSnapToleranceUnit type="int">2</DefaultSnapToleranceUnit>
+      <SnappingMode type="QString">current_layer</SnappingMode>
+      <DefaultSnapType type="QString">off</DefaultSnapType>
+      <DefaultSnapTolerance type="double">0</DefaultSnapTolerance>
+    </Digitizing>
+    <PositionPrecision>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+      <Automatic type="bool">true</Automatic>
+    </PositionPrecision>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+  </properties>
+  <visibility-presets/>
+</qgis>

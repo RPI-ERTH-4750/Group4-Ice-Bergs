@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE GranuleMetaDataFile SYSTEM "http://ecsinfo.gsfc.nasa.gov/ECSInfo/ecsmetadata/dtds/DPL/ECS/ScienceGranuleMetadata.dtd">
+<GranuleMetaDataFile>
+    <DTDVersion>1.0</DTDVersion>
+    <DataCenterId>NSIDC</DataCenterId>
+    <GranuleURMetaData>
+        <GranuleUR>SC:NSIDC-0478.002:124387833</GranuleUR>
+        <DbID>124387833</DbID>
+        <InsertTime>2017-09-11 11:31:55.887</InsertTime>
+        <LastUpdate>2017-09-11 11:31:55.887</LastUpdate>
+        <CollectionMetaData>
+            <ShortName>NSIDC-0478</ShortName>
+            <VersionID>2</VersionID>
+        </CollectionMetaData>
+        <DataFiles>
+            <DataFileContainer>
+                <DistributedFileName>greenland_vel_mosaic_2005_2006_v2.shx</DistributedFileName>
+                <FileSize>2772</FileSize>
+                <ChecksumType>MD5</ChecksumType>
+                <Checksum>d6e80a79eaa6535ebf68803e951a7f50</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+            <DataFileContainer>
+                <DistributedFileName>greenland_vel_mosaic_2005_2006_v2.prj</DistributedFileName>
+                <FileSize>255</FileSize>
+                <ChecksumType>MD5</ChecksumType>
+                <Checksum>46b30532526b6ff959b307123a6d5e71</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+            <DataFileContainer>
+                <DistributedFileName>greenland_vel_mosaic_2005_2006_v2.shp</DistributedFileName>
+                <FileSize>45524</FileSize>
+                <ChecksumType>MD5</ChecksumType>
+                <Checksum>53c6479e54c23fe0e2d1957f9fafeb4f</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+            <DataFileContainer>
+                <DistributedFileName>greenland_vel_mosaic_2005_2006_v2.dbf</DistributedFileName>
+                <FileSize>84091</FileSize>
+                <ChecksumType>MD5</ChecksumType>
+                <Checksum>47cd89de9cfa4778653c0c83719c6105</Checksum>
+                <ChecksumOrigin>DPLIngst</ChecksumOrigin>
+            </DataFileContainer>
+        </DataFiles>
+        <ECSDataGranule>
+            <SizeMBECSDataGranule>0.126497</SizeMBECSDataGranule>
+            <LocalGranuleID>greenland_vel_mosaic_2005_2006</LocalGranuleID>
+            <ProductionDateTime>2017-09-08 14:07:38.000</ProductionDateTime>
+            <LocalVersionID>002</LocalVersionID>
+        </ECSDataGranule>
+        <RangeDateTime>
+            <RangeEndingTime>23:59:59.000000</RangeEndingTime>
+            <RangeEndingDate>2006-04-20</RangeEndingDate>
+            <RangeBeginningTime>00:00:01.000000</RangeBeginningTime>
+            <RangeBeginningDate>2005-12-13</RangeBeginningDate>
+        </RangeDateTime>
+        <SpatialDomainContainer>
+            <HorizontalSpatialDomainContainer>
+                <BoundingRectangle>
+                    <WestBoundingCoordinate>-75.0</WestBoundingCoordinate>
+                    <NorthBoundingCoordinate>83.0</NorthBoundingCoordinate>
+                    <EastBoundingCoordinate>-14.0</EastBoundingCoordinate>
+                    <SouthBoundingCoordinate>60.0</SouthBoundingCoordinate>
+                </BoundingRectangle>
+            </HorizontalSpatialDomainContainer>
+        </SpatialDomainContainer>
+        <Platform>
+            <PlatformShortName>RADARSAT-1</PlatformShortName>
+            <Instrument>
+                <InstrumentShortName>SAR</InstrumentShortName>
+                <Sensor>
+                    <SensorShortName>SAR</SensorShortName>
+                </Sensor>
+            </Instrument>
+        </Platform>
+        <PSAs>
+            <PSA>
+                <PSAName>SIPSMetGenVersion</PSAName>
+                <PSAValue>2.0.0</PSAValue>
+            </PSA>
+        </PSAs>
+    </GranuleURMetaData>
+</GranuleMetaDataFile>
+
